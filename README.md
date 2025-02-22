@@ -1,7 +1,6 @@
 ![](https://img.shields.io/badge/YAMANASHI_AIハッカソン-2022-green)
+![](https://img.shields.io/badge/機械学習-scikit_learn-blue)
 
-
-<div id="top"></div>
 
 ## プロジェクト名
 
@@ -11,13 +10,10 @@ Musicリコメンダ
 
 ## プロジェクトについて
 
-楽曲動画印象データセットを用いて、ユーザの感情にマッチする音楽を提案するAI
-
-<!-- プロジェクトの概要を記載 -->
+楽曲動画印象データセットと`scikit-learn`で学習したモデルを用いて、ユーザの感情にマッチする音楽を提案するシステム
 
   <p align="left">
     <br />
-    <!-- プロジェクト詳細にBacklogのWikiのリンク -->
     <a href="https://nkmr.io/mood/index_mood.html"><strong>楽曲動画印象データセット »</strong></a>
     <br />
     <br />
